@@ -1,4 +1,4 @@
-## 📡 WPFA - Tool Advanced Wi-Fi Brute Force
+## 📡 WPFA - An Advanced Wi-Fi Brute Force Tool
 
 ![Tool Preview](1.PNG)
 ## 📌 Overview
