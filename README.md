@@ -1,6 +1,6 @@
 ## 📡 WPFA - An Advanced Wi-Fi Brute Force Tool
 
-![Tool Preview](1.PNG)
+![Tool Preview](interface.png)
 ## 📌 Overview
 WPFA is a Python-Based Tool Crafted by **e7x3mt0r**<br>
 Built to Launch Brute Force Attacks On Weak WiFi Networks and Exploit their vulnerabilities to Gain Access 👾
