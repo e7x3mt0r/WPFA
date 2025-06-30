@@ -2,13 +2,13 @@
 
 ![Tool Preview](1.PNG)
 ## 📌 Overview
-WPFA is a Python-Based Tool Crafted by **v7x3cut0r**<br>
-Built to Launch Brute Force Attacks On weak WiFi Networks and Exploit their vulnerabilities to Gain Access 👾
+WPFA is a Python-Based Tool Crafted by **e7x3mt0r**<br>
+Built to Launch Brute Force Attacks On Weak WiFi Networks and Exploit their vulnerabilities to Gain Access 👾
 
 ## ✨ Features
 - 🖥 Easy Terminal interface
 - 🔥 Save and resume Attack Progress
-- 🚀 Support For Networks that Rely on the MAC Address in the Password
+- 🚀 Support For Networks that Rely on the MAC Address in The Password
 - 📶 Supports Most Wireless Network Interfaces
 ## 🛠️ Installation
 <p align="left">
