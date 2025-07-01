@@ -3,7 +3,7 @@
 ![Tool Preview](tool.png)
 ## 📌 Overview
 WPFA is a Tool Programmed And Developed By **e7x3mt0r** <br>
-Designed to Launch Brute Force Attacks on Vulnerable Wi Fi Networks and Hack Them 👾
+Designed to Launch Brute Force Attacks on Wi Fi Networks 👾
 
 ## ✨ Features
 - 🖥 Easy Terminal interface
