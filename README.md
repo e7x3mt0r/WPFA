@@ -1,8 +1,8 @@
-## 📡 WPFA - An Advanced Wi-Fi Brute Force Tool
+## 📡 NetR0x - An Advanced Wi-Fi Brute Force Tool
 
 ![Tool Preview](tool.png)
 ## 📌 Overview
-WPFA is a Tool Programmed And Developed By **e7x3mt0r** <br>
+NetR0x is a Tool Programmed And Developed By **e7x3mt0r** <br>
 Designed to Launch Brute Force Attacks on Wi Fi Networks 👾
 
 ## ✨ Features
@@ -12,8 +12,8 @@ Designed to Launch Brute Force Attacks on Wi Fi Networks 👾
 - 📶 Supports Most Wireless Network Interfaces
 ## 🛠️ Installation
 <p align="left">
-  <a href="https://github.com/e7x3mt0r/WPFA/releases/download/untagged-4e991f659e7115591c51/WPFA.exe">
-    <img src="https://img.shields.io/badge/Download-pl7x3cut0r-red?style=for-the-badge&logo=windows" alt="Download Button"/>
+  <a href="https://github.com/e7x3mt0r/NetR0x/releases/download/untagged-4e991f659e7115591c51/NetR0x.exe">
+    <img src="https://img.shields.io/badge/Download-e7x3mt0r-red?style=for-the-badge&logo=windows" alt="Download Button"/>
   </a>  
 </p> 
 
